@@ -1,0 +1,1 @@
+Backend created to be able to connect a database with the frontend of travelbudget project.
